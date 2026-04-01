@@ -123,7 +123,7 @@ DELETE /api/users/{id}
 | name       | string    |
 | email      | string    |
 | password   | string    |
-| age        | integer   |
+| birth_date | date   |
 | role       | string    |
 | created_at | timestamp |
 | updated_at | timestamp |
