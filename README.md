@@ -63,7 +63,7 @@ The API will use the following structure:
   "name": "John Doe",
   "email": "john@example.com",
   "password": "12345678",
-  "age": 25,
+  "birth_date": "2000-05-12",
   "role": "Developer"
 }
 ```
