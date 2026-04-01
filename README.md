@@ -96,7 +96,7 @@ Example body:
 {
   "name": "John Doe",
   "email": "john@example.com",
-  "age": 25,
+  "birth_date": "2000-05-12",
   "role": "Developer"
 }
 ```
