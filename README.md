@@ -172,9 +172,9 @@ Edit the migration file:
 ```php
 $table->string('name');
 $table->string('email')->unique();
-$table->string('password');
-$table->integer('age');
+$table->date('birth_date');
 $table->string('role');
+$table->string('password');
 ```
 
 Run the migrations:
