@@ -199,9 +199,9 @@ Example database configuration in the `.env` file:
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=api_users
-DB_USERNAME=root
-DB_PASSWORD=password
+DB_DATABASE=
+DB_USERNAME=
+DB_PASSWORD=
 ```
 
 ---
